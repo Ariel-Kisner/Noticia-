@@ -1,0 +1,68 @@
+.body{
+
+}
+
+.header{
+    background-color: rgb(76, 76, 255);
+    padding: 3vh;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 12.5vh;
+
+    
+
+}
+
+.h1header{
+    /* Relativo à posição*/
+    text-align: center;
+
+    /* Relativo às letras*/
+    font-size: 5vh;
+    padding: 1px;
+}
+
+.h3header{
+    /* Relativo à posição*/
+    text-align: center;
+
+    /* Relativo às letras*/
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: italic;
+    font-size: 2vh;
+}
+
+.separadorheader{
+    position: fixed;
+    top: 18.2vh;
+    left: 0;
+    width: 100%;
+    height: 0.5vh;
+    background-color: black;
+}
+
+.gi{
+    position:fixed;
+    left: 0%;
+    top: 18.7%;
+
+    text-align: center;
+    
+    width: 800px;
+    height: 100%;
+
+    border-left: 600px solid rgb(108, 155, 255);
+    border-right: 600px solid rgb(108, 155, 255);
+
+}
+
+.g1h1 {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.g1primeiraletra {
+    font-size: 30px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
