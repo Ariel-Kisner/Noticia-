@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>English notícias</title>
+    <link rel="stylesheet" href=".css">
+</head>
+<body class="body">
+
+    <header class="header">
+        <H1 class="h1header">English Notícias</H1>
+        <h3 class="h3header">" Notícias em inglês" </h3>
+    </header>
+
+    <div class="separadorheader">    </div>
+    
+    <div class="gi">
+        <h1 class="g1h1">So, what is the matter with the uses and effects of tecnology at school?</h1>
+
+        <h2><span class="g1primeiraletra"> <strong>T</strong></span>echnology has ushered in a new era of education. Online learning platforms have given students access to study materials, lectures,  and other resources from anywhere with an internet connection. This is especially beneficial for those who live in remote areas or do not have access to physical classrooms. Despite this, many teachers are still afraid of losing their jobs, as the internet and so-called AI (Artificial Intelligence) can teach students much faster and easier. However, machines are not capable of interacting like humans, whe feel emotions such as affection, compassion, and love for teaching.</h2>
+
+    </div>
+
+</body>
+</html>
